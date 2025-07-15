@@ -20,6 +20,7 @@ setup(
     long_description_content_type='text/markdown',
     long_description=long_description,
     install_requires=[
-        'pyqt-resource-helper>=0.0.15'
+        'pyqt-resource-helper>=0.0.15',
+        'PyQt6>=6.5.0'
     ]
 )
